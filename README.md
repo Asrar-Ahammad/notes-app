@@ -1,4 +1,4 @@
-Here is a README.md file for a notes app repository:
+Here is a README.md file for a notes app repository:<br>
 **Website link :** https://note-it-azure.vercel.app/
 # Notes App
 
